@@ -12,11 +12,8 @@
           <a class="nav-link active" aria-current="page" href="index.php?url=page">Les articles</a>
         </li>
         <!-- <li class="nav-item">
-          <a class="nav-link" href="index.php?url=homepage">Page d'accueil</a>
-        </li> -->
-        <li class="nav-item">
           <a class="nav-link" href="index.php?url=PosterUnArticle">Poster un Article</a>
-        </li>
+        </li> -->
       </ul>
     </div>
   </div>

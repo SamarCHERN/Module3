@@ -33,9 +33,6 @@ class Article {
           'Auteur' => $auteur,
           'Date_publication' => $date_publication, 
       ]);
-      $articlesStatement = $db->prepare('SELECT * FROM articles');
-      $articlesStatement->execute();
-      $articles = $articlesStatement->fetchAll();
   }
 
   public function getDb(){
